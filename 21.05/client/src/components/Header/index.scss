@@ -1,0 +1,21 @@
+.Header {
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 16px;
+
+        .header-buttom {
+            ul {
+                color: black;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 20px;
+                .links{
+                    color: black;
+                }
+            }
+        }
+    }
+}
